@@ -1,0 +1,21 @@
+body { background-color:rgb(251, 229, 199);
+}
+
+.col { border:7px solid rgb(4, 112, 36); margin:100px;  
+}
+
+ h1{ text-align: center; font-weight:bolder; margin-top:20px;
+
+}
+ul {list-style-type:none;}
+
+li {font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: xx-large; text-justify: newspaper;
+    
+
+}
+
+h2{ text-align: center; padding: 40px;font-weight: bolder;
+
+}
+.container{max-width: 60%;}
+
